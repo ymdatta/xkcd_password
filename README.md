@@ -1,5 +1,7 @@
-# xkcd_password
-Password Generator inspired by xkcd strip about Password Strength 
+**# xkcd_password**
+Password Generator inspired by xkcd strip about Password Strength.
+![XKCD strip]({{site.baseurl}}/xkcd_password/xkcd_password_strength.png)
+
 
 
 Since we want more commonly used words, data is choosen from comments on reddit.
@@ -9,15 +11,12 @@ Since we want more commonly used words, data is choosen from comments on reddit.
 6.txt, 7.txt, 8.txt contains all the six, seven, eight letter words.
 
 final.txt contains all the words from the above text files whose count > 1500.
-
-** Instructions **
+**## Instructions**
 
 1. Download the password_generator.py file along with final.txt file
 2. Run python3 password_generator.py on command line.
 
-** Ex Outputs: **
+### ** Ex Outputs: **
 1.  'metallic ferrari sinful return'
 2.  'opinions stores sneaker directed '
-
-
-
+3.  'smearing workout starring nothing'
