@@ -11,7 +11,8 @@ Since we want more commonly used words, data is choosen from comments on reddit.
 6.txt, 7.txt, 8.txt contains all the six, seven, eight letter words.
 
 final.txt contains all the words from the above text files whose count > 1500.
-**## Instructions**
+
+## ** Instructions**:
 
 1. Download the password_generator.py file along with final.txt file
 2. Run python3 password_generator.py on command line.
