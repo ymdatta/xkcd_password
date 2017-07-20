@@ -1,6 +1,6 @@
 **# xkcd_password**
 Password Generator inspired by xkcd strip about Password Strength.
-![XKCD strip]({{site.baseurl}}/xkcd_password/xkcd_password_strength.png)
+![XKCD strip]({{site.baseurl}}//xkcd_password/xkcd_password_strength.png)
 
 
 
